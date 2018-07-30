@@ -1,3 +1,0 @@
-'''
-    it is test file.
-'''
